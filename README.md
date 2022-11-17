@@ -8,6 +8,8 @@ Las secciones del código que además está acompañado con documentación, se d
 
 a) La primer capa de información fue la de observaciones de felinos, consultada en el Global Biodiversity Information Facility y recuperada en el siguiente [enlace](https://www.gbif.org/occurrence/download/0141580-220831081235567).
 
+b) La segunda fuente de información fueron los polígonos consultados en el Sistema Nacional de Información Territorial (SNIT) de Costa Rica, recuperados en el siguiente (enlace)[**https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC]
+
 ### Enlace para visualizar el resultado en NBViewer
 
 
