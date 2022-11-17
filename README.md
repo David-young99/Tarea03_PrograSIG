@@ -6,7 +6,7 @@ Las secciones del código que además está acompañado con documentación, se d
 
 ### Fuentes de información
 
-
+a) La primer capa de información fue la de observaciones de felinos, consultada en el Global Biodiversity Information Facility y recuperada en el siguiente [enlace](https://www.gbif.org/occurrence/download/0141580-220831081235567).
 
 ### Enlace para visualizar el resultado en NBViewer
 
