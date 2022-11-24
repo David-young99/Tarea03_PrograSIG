@@ -12,4 +12,4 @@ b) La segunda fuente de información fueron los polígonos consultados en el Sis
 
 ### Enlace para visualizar el resultado en NBViewer
 
-
+El código cargado en NBViewer lo puede encontrar en el siguiente [enlace](https://nbviewer.org/github/David-young99/Tarea03_PrograSIG/blob/main/Tarea03.ipynb).
